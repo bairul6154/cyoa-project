@@ -2,6 +2,6 @@
 
 _Do you..._
 
-1. [Call the cops]()
+1. [Call the cops](callcops.md)
 2. [Ignore the stranger at your door and hope they leave]()
 3. [Leave the house by the backdoor]()
