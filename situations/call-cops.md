@@ -3,4 +3,4 @@
 _Do you..._
 
 1. [Go outside and get it](out-side.md)
-2. [forget it and look for a place to hide]()
+2. [forget it and look for a place to hide](man-enters.md)
