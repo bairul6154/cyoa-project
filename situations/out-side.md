@@ -3,4 +3,4 @@
 _Do you..._  
 
 1. [Go Back Inside](man-enters.md)
-2. [Follow The Footsteps](firstending.md)
+2. [Follow The Footsteps](first-ending.md)
