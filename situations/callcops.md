@@ -2,5 +2,5 @@
 
 _Do you..._
 
-1. [Go outside and get it]()
+1. [Go outside and get it](outside.md)
 2. [forget it and look for a place to hide]()
