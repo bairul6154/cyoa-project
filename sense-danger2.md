@@ -1,6 +1,7 @@
 ### It's 4:37am and you wake up to loud knocking in your front door. You make your way down the stairs, and look through the peep hole. You see a man wearing a mask and hoodie. You have **3** options and your life depends on it. 
 
 ![image](images/door12.jpg)
+[Photo Credit](https://pixabay.com/en/door-bad-luck-13-thirteen-unlucky-1587023/)
 
 _Do you..._
 
