@@ -1,4 +1,4 @@
-# The neighbors ARE home take you in, call the police and help fend off the killer 
+# The neighbors **are** home and take you in. The Husband calls the police while the Wife gets her gun out of a safe. You're safe.
 
 Great Job. You Won.  
 [Return Home](../sense-danger2.md)
