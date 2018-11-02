@@ -1,4 +1,4 @@
 # You've left your house, where would go?
 
 1. [go to your car](car-issue.md)
-2. [go to your neighbot](neighbors-ending.md)
+2. [go to your neighbor](neighbors-ending.md)
