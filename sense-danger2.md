@@ -1,5 +1,4 @@
-### You hear someone at your door and sense danger...  
-
+### It's 4:37am and you wake up to loud knocking in your front door. You make your way down the stairs, and look through the peep hole. You see a man wearing a mask and hoodie. You have **3** options and your life depends on it. 
 _Do you..._
 
 1. [Call the cops](situations/call-cops.md)
