@@ -1,4 +1,4 @@
-### It's 4:37am when you wake up to loud knocking at your front door. You make your way down the stairs, and look through the peep hole. You see a man wearing a mask and hoodie. You have **3** options and your life depends on it. 
+### It's 4:37am when you wake up to loud knocking at your front door. You make your way down the stairs and look through the peep hole. You see a man wearing a mask and hoodie. You have **3** options and your life depends on it. 
 
 ![image](images/door12.jpg)
 
