@@ -1,5 +1,7 @@
 # You hear the window shatter and a man screaming in anger.  
 
+![image](../images/shatter.jpg)  
+[Photo Credit](https://pixabay.com/en/fist-strength-anger-tear-breeze-1148029/)  
 
 _Do you..._
 
