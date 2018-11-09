@@ -2,8 +2,9 @@
 ### While you're talking about the situation, you both get attacked by the killer and die. 
 
 ---
-![image](../images/phone.jpeg)  
-[Photo Credit](https://pixnio.com/objects/electronics-devices/iphone-pictures/book-mobile-phone-table-technology-android-communication)
+![image](../images/arm1.png)  
+[Photo Credit](https://pxhere.com/en/photo/1341086)
+
 ---
 
 [return home](../sense-danger2.md)
